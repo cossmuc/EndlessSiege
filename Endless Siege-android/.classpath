@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="src" path="/Endless Siege-core"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.7.0/d8c0e81a68812893d0bf80cea37fbcba9f23d38b/gdx-backend-android-1.7.0.jar" sourcepath="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.7.0/e9f29de89718f3ef414b6c371ff0f69f31dd25d0/gdx-backend-android-1.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.6.0/f7b513df3e52198ecda822eea1674f488d7352a5/ashley-1.6.0.jar" sourcepath="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.6.0/d99eb702d4c96adf1c622ee02188accdcf51172d/ashley-1.6.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.7.0/610a1387efef0818de1651a6de545dd2087e6d65/gdx-freetype-1.7.0.jar" sourcepath="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.7.0/616d3fbed016aba61c110158f28933710852e65d/gdx-freetype-1.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.0/1b08c96132448b5ab9c0cc8dea3e985dcf0166fd/gdx-1.7.0.jar" sourcepath="C:/Users/ossmanca/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.7.0/21b2ce6c57a95b31f341bb416489791fc96ed2bf/gdx-1.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
